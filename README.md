@@ -14,4 +14,5 @@ http://www.jmlr.org/papers/volume10/strehl09a/strehl09a.pdf
 
 Plot of the reward for 50,000 episodes
 
+![picture](/rmax.png)
 
